@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3d90ce"/>
+      <stop offset="1" stop-color="#1e3a5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#background)"/>
+  <g fill="#ffffff">
+    <path opacity="0.25" transform="translate(250 150) scale(12)" d="M17 3H7c-1.1 0-2 .9-2 2v16l7-3 7 3V5c0-1.1-.9-2-2-2z"/>
+    <path transform="translate(200 180) scale(12)" d="M17 3H7c-1.1 0-2 .9-2 2v16l7-3 7 3V5c0-1.1-.9-2-2-2z"/>
+    <text x="500" y="300" font-family="sans-serif" font-size="84" font-weight="bold">Bookmarks</text>
+    <text x="500" y="370" font-family="sans-serif" font-size="34" opacity="0.85">Named shortcuts to places in Lens</text>
+  </g>
+</svg>
